@@ -16,3 +16,6 @@ A simple calculator app make with the NeutralinoJS framework
 **4.** Place all the files in the sample directory or folder
 
 **5.** Execute the binary either from the terminal or from a desktop envornment
+
+## **Picture**
+![Screenshot_20230122_123337](https://user-images.githubusercontent.com/91166833/213930820-3bda545b-d7cd-421c-bd50-8c18d1f8a037.png)
